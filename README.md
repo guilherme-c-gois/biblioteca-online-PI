@@ -1,5 +1,5 @@
 # 📚 Biblioteca Online
-Uma aplicação web para gerenciamento de livros, desenvolvida como parte do Projeto Integrador III do curso de Análise e Desenvolvimento de Sistemas pelo Senac-RS.
+Uma aplicação web para gerenciamento de livros, desenvolvida como parte do Projeto Integrador II do curso de Análise e Desenvolvimento de Sistemas pelo Senac-RS.
 
 ## 🚧 Status do Projeto
 Projeto iniciado como uma proposta de sistema web, mas que não teve seu desenvolvimento concluído. Posteriormente, a ideia foi retomada em uma aplicação desktop, utilizando Java Swing, no projeto Biblioteca Digital.
