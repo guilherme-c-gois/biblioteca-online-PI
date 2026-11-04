@@ -10,7 +10,7 @@ Projeto iniciado como uma proposta de sistema web, mas que não teve seu desenvo
 - Banco de Dados: MySQL com Spring Data JPA
 
 ## 🎯 Objetivo do Software
-Desenvolver um sistema desktop que facilite o gerenciamento de uma biblioteca, permitindo controlar o acervo, os usuários e as operações de empréstimo e devolução de livros.
+Desenvolver um sistema web que facilite o gerenciamento de uma biblioteca, permitindo controlar o acervo, os usuários e as operações de empréstimo e devolução de livros.
 
 ## 📝 Funcionalidades Implementadas
 - Listagem dos livros cadastrados;
